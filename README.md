@@ -1,1 +1,1 @@
-# llm-zoomcamp
+# llm-zoomcamp export OPENAI_API_KEY=<add-your-key-here>
